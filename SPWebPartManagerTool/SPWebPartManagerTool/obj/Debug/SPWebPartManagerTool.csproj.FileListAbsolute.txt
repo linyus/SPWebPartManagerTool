@@ -1,0 +1,9 @@
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\bin\Debug\SPWebPartManagerTool.exe.config
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\bin\Debug\SPWebPartManagerTool.exe
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\bin\Debug\SPWebPartManagerTool.pdb
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.Form1.resources
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.Properties.Resources.resources
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.csproj.GenerateResource.Cache
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.exe
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.pdb
+D:\MyProjects\SPWebPartManagerTool\SPWebPartManagerTool\obj\Debug\SPWebPartManagerTool.csprojResolveAssemblyReference.cache
